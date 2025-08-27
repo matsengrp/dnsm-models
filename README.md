@@ -1,6 +1,6 @@
 # DNSM Models
 
-This repository contains pre-trained DNSM (Deep Network for Somatic Mutations) models.
+Deep natural selection models - pre-trained DNSM models for use with netam.
 
 ## Models
 
